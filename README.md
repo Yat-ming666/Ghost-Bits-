@@ -1,5 +1,6 @@
 # Ghost-Bits-
 Ghost Bits(幽灵比特)攻击手法字典
+
 python ghost_bits_dictionaries.py --encode "test.php" --variants 50 --mode path
 
 python ghost_bits_dictionaries.py --encode "../../../etc/passwd" --variants 50 --mode path
